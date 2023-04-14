@@ -6,11 +6,6 @@
         "settings": {
           "mobile_menu_title": "Lala"
         }
-      },
-      "homepage": {
-        "type": "homepage",
-        "settings": {
-        }
       }
     },
     "content_for_index": [

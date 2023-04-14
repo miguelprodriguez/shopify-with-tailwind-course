@@ -3,6 +3,8 @@
     "template": {
       "type": "template-404",
       "settings": {
+        "title": "404 Hello World",
+        "subtext_title": "The page you are looking for is not found."
       }
     }
   },
