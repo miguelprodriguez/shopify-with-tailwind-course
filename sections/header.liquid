@@ -18,7 +18,7 @@
 
       <!-- NAVIGATION MENU -->
       <nav class="hidden md:flex space-x-10">
-        {% for link in linklists.main-menu.links %}
+        {% for link in main_menu_linklist %}
           {% if link.links != blank %}
             {% assign link_handle = link.handle | replace: '-', '_' %}
             <div class="relative" x-data="{ {{ link_handle }}: false }">
