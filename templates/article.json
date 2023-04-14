@@ -2,6 +2,16 @@
   "sections": {
     "template": {
       "type": "template-article",
+      "blocks": {
+        "title": {
+          "type": "article_title",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title"
+      ],
       "settings": {
       }
     }
